@@ -14,6 +14,15 @@
 
 # Conference
 
+- チームにスクラムを導入してみた
+[SoftBank Tech Night Fes 2023](https://www.softbank.jp/biz/events/tech-night-fes-2023/t06r/), 2023, [資料](https://speakerdeck.com/sbtechnight/timunisukuramuwodao-ru-sitemita)
+
+- Terraform 管理下のマネージドリソースと k8s リソースを一元的に GitOps するまでの試行錯誤
+[CloudNative Days CI/CD Conference 2023 前夜祭](https://cloudnativedays.connpass.com/event/274402/), 2023, [資料](https://speakerdeck.com/uya116/terraformguan-li-xia-nomanezidorisosutok8srisosuwo-yuan-de-nigitopssurumadenoshi-xing-cuo-wu), [アーカイブ](https://www.youtube.com/watch?v=At3DU-is6dc&ab_channel=CloudNativeDays)
+
+- アプリ開発者が最低限知っておきたい「クラウドネイティブ」なインフラ設計
+[ITmedia Cloud Native Week 2022 winter](https://enq.itmedia.co.jp/on24u/form/cnw2212), 2022, [要約記事](https://www.softbank.jp/biz/blog/cloud-technology/articles/202212/cloud-native-cnap/)
+
 - 河川管理業務の堤防点検における技術者の視線データ取得の試み
 映像情報メディア学会技術報告, vol. 40, no. 6, pp. 173-176, 2016
 
