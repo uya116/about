@@ -15,7 +15,7 @@
 # Conference
 
 - チームにスクラムを導入してみた
-[SoftBank Tech Night Fes 2023](https://www.softbank.jp/biz/events/tech-night-fes-2023/t06r/), 2023, [資料](https://speakerdeck.com/sbtechnight/timunisukuramuwodao-ru-sitemita)
+[SoftBank Tech Night Fes 2023](https://www.softbank.jp/biz/events/tech-night-fes-2023/t06r/), 2023, [資料](https://speakerdeck.com/sbtechnight/timunisukuramuwodao-ru-sitemita), [アーカイブ](https://www.youtube.com/watch?v=9ZGTLAztMl0)
 
 - Terraform 管理下のマネージドリソースと k8s リソースを一元的に GitOps するまでの試行錯誤
 [CloudNative Days CI/CD Conference 2023 前夜祭](https://cloudnativedays.connpass.com/event/274402/), 2023, [資料](https://speakerdeck.com/uya116/terraformguan-li-xia-nomanezidorisosutok8srisosuwo-yuan-de-nigitopssurumadenoshi-xing-cuo-wu), [アーカイブ](https://www.youtube.com/watch?v=At3DU-is6dc&ab_channel=CloudNativeDays)
