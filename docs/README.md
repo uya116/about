@@ -37,3 +37,10 @@ International Workshop on Advanced Image Technology 2015, pp. 325(2015)
 
 - 画像検索結果提示法におけるユーザの探索時間と特徴量との関係に関する一考察
 電気・情報関係学会北海道支部連合大会 講演論文集, p. 160 (2013)
+
+# Article
+
+- [Workload Identityを用いてAKSクラスタからGoogle Cloudへアクセスする](https://www.softbank.jp/biz/blog/cloud-technology/articles/202205/aks-to-gcp/), 2022
+- [Workload Identityを用いてEKSクラスタからGoogle Cloudへアクセスする](https://www.softbank.jp/biz/blog/cloud-technology/articles/202206/eks-to-gcp/), 2022
+- [クラウドネイティブなインフラとクラウドネイティブ・アプリケーションプラットフォーム（CNAP）](https://www.softbank.jp/biz/blog/cloud-technology/articles/202212/cloud-native-cnap/), 2022
+- [チームにスクラムを導入した話をSoftBank Tech Night Fes 2023で発表してきた](https://www.softbank.jp/biz/blog/cloud-technology/articles/202303/tech-night-fes-scrum/)
